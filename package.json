@@ -3,5 +3,21 @@
   "version": "1.0.0",
   "dependencies": {
     "node-fetch": "^2.6.7"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiggit/lias-test-run.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiggit/lias-test-run/issues"
+  },
+  "homepage": "https://github.com/luiggit/lias-test-run#readme",
+  "description": ""
 }
